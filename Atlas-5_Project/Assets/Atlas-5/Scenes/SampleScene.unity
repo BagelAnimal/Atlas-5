@@ -2158,6 +2158,21 @@ PrefabInstance:
       propertyPath: _attackRange
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 6282280794119683469, guid: 8b0ec77635cfbc24ebe91113ff78f979,
+        type: 3}
+      propertyPath: _attackDecayTime
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6282280794119683469, guid: 8b0ec77635cfbc24ebe91113ff78f979,
+        type: 3}
+      propertyPath: _attackWindupTime
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6282280794119683469, guid: 8b0ec77635cfbc24ebe91113ff78f979,
+        type: 3}
+      propertyPath: _attackSustainTime
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6282280794119683478, guid: 8b0ec77635cfbc24ebe91113ff78f979,
         type: 3}
       propertyPath: m_RootOrder
